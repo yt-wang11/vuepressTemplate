@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{188:function(n,e,t){"use strict";t.r(e);var s={},i=t(0),l=Object(i.a)(s,function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n  我是组件里的demo-1\n")])},[],!1,null,null,null);e.default=l.exports}}]);
